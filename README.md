@@ -2,6 +2,9 @@
 # MenCo
 ### Team Members👨🏻‍💻:
 1. [Rishi Kaushal](https://github.com/sagefell29)
+2. [Alok Mathur](https://github.com/alok27a)
+3. [Jayant Vishnu Nanduri](https://github.com/nandurijv)
+4. [Prasoon Soni](https://github.com/prasoonsoni)
 
 ### Introduction ✅:
 <p>
